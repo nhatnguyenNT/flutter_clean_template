@@ -1,4 +1,4 @@
-package com.example.my_template
+package com.example.flappy_template
 
 import io.flutter.embedding.android.FlutterActivity
 
